@@ -1,0 +1,57 @@
+body{
+    height:100%;
+    font-family:Arial, Helvetica, sans-serif;
+    margin:10px;
+}
+
+.mb-3{
+    width:300px;
+   margin-left:600px;
+   margin-top:25px;
+
+}
+
+.mb-2{
+    width:300px;
+    margin-left:600px;
+    background-color:yellow;
+    height:30px;
+    border-radius:5px;
+
+
+}
+
+.mb-4{
+    width:300px;
+    margin-left:600px;
+    height:30px;
+    border-radius:5px;
+}
+
+#paragraph{
+    margin-left:600px;
+    width:320px;
+    font-size:15px;
+    margin-top:15px;
+    
+}
+
+#header{
+    margin-top:20px;
+    margin-left:600px;
+
+}
+
+#new{
+    text-align:center;
+    font-family:'Courier New', Courier, monospace
+}
+
+.image{
+    margin-left:635px;
+    margin-top:0px;
+}
+
+  .form-label-1{
+    word-spacing:66px;
+  }
